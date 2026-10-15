@@ -48,7 +48,7 @@
   },
   "plugins": {
     "updater": {
-      "pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDQyQ0FFRTBBREU1RUJFOTcKUldTWHZsN2VDdTdLUXZ3dnJETXR3L3ZtelhZWFEwL2xkaTlNOEdRc0xmSTFia3IzcnNQdzArc0IK",
+      "pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDhFMzRBQzhBMkIwQkJBOUUKUldTZXVnc3JpcXcwamlFUkpqM3VBb3FLYjJIZVZ0Tyt4SE45dWpMWUNwbGZqaW4rTkNNaVl5MWEK",
       "endpoints": [
         "https://github.com/fusheng68/jm-tarui/releases/latest/download/latest.json"
       ]
