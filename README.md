@@ -17,7 +17,7 @@
 
 出现 `应用已损坏` 或 `无法验证开发者`，请使用 `xattr -cr` 放行。
 
-前往下载 [Release](https://github.com/ppxb/jm-boom/releases)。
+前往下载 [Release](https://github.com/fusheng68/jm-tarui/releases)。
 
 ## Screenshots
 
